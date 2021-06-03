@@ -21,6 +21,11 @@ body {
     color: grey;
 }
 
+.copyright {
+    font-size: 21px;
+    color: grey;
+    text-align: right;
+}
 
 .link--cta {
     font-size: 16px;
